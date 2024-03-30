@@ -1,0 +1,7 @@
+- apt update
+- apt upgrade
+- git clone https://github.com/Bhaviktutorials/shark
+- cd shark
+- chmod +x *
+- ./setup
+- shark
